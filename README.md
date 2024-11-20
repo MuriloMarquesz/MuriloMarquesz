@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ <br>Inicei minha carreira como profissional na área de TI a três anos, e desde então venho me aperfeiçoando em novas habilidades.<br>Este é meu perfil no Github onde você pode ver um pouco sobre meus projetos pessoais, atualmente estou estudando Python e desejo melhorar cada vez mais na área de programação.<br></p>
+<p align="left"><br>Inicei minha carreira como profissional na área de TI a três anos, e desde então venho me aperfeiçoando em novas habilidades.<br>Este é meu perfil no Github onde você pode ver um pouco sobre meus projetos pessoais, atualmente estou estudando Python e desejo melhorar cada vez mais na área de programação.<br></p>
 
 ###
 
