@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Murilo e trabalho como Analista de TI</p>
+<p align="left">Me chamo Murilo, atualmente trabalho como Analista de TI</p>
 
 ###
 
